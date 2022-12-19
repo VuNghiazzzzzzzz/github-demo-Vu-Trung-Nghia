@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpGrfww3XYW+KrEvUgkWXJwh6e3ZCYnDwGqN9MNIDJssrkyHZj2QCt2r/2qz59Z6y9NmrDX5JF5QoOrKs/uLXQ==",
+  "success": true,
+  "projectFilePath": "D:\\API_NguyenTranHoa_LeVanQuy_VuTrungNghia\\CNPMopenAPI\\CNPMopenAPI\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Vu Nghia\\.nuget\\packages\\xc.rsautil\\1.3.6\\xc.rsautil.1.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

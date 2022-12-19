@@ -1,0 +1,13 @@
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\CNPMopenAPI.exe
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\CNPMopenAPI.dll
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\CNPMopenAPI.deps.json
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\CNPMopenAPI.runtimeconfig.json
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\CNPMopenAPI.pdb
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Crypto.dll
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kiet\source\repos\CNPMopenAPI\CNPMopenAPI\obj\Release\net6.0\PubTmp\Out\XC.RSAUtil.dll
